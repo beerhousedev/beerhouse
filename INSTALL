@@ -1,0 +1,9 @@
+Building BEERHOUSE
+
+See doc/readme-qt.rst for instructions on building BEERHOUSE QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BEERHOUSE.
+
+See doc/build-*.txt for instructions on building beerhoused,
+the intended-for-services, no-graphical-interface, reference
+implementation of BEERHOUSE.
